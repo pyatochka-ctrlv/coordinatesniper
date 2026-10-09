@@ -1,0 +1,6 @@
+{
+  "name": "Координатний снайпер",
+  "description": "Інтерактивний навчальний тренажер координат X, Y, Z для учнів 8–9 років (Minecraft Education, урок 5).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
